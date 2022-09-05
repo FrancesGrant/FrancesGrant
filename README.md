@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Fran 👋 👩‍💻
 
 <!--
 **FrancesGrant/FrancesGrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👩‍🎓 I'm curretnly working towards my Postgraduate in Software Development at the University of Strathclyde
+
+🤔 I’m looking to contribute to data analytics and software development projects within the financial service industry
+
+📫 Let's connect: 
+**Linkedin** https://www.linkedin.com/in/frances-grant/
+📧 frances_grant@outlook.com
+
+
