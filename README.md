@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👩‍🎓 I'm curretnly working towards my Postgraduate in Software Development at the University of Strathclyde
 
-🤔 I’m looking to contribute to data analytics and software development projects within the financial service industry
+🤔 I’m looking to contribute to software development projects within the financial service industry - particularly interested within app development.
 
 📫 Let's connect: 
 **Linkedin** https://www.linkedin.com/in/frances-grant/
