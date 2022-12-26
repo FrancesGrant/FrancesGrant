@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi, I'm Fran 👋<br><br>👩‍💻 I'm currently working towards my Postgraduate in Software Development at the University of Strathclyde<br><br>🤔 I’m looking to contribute to software development projects within the financial service industry - particularly interested within app development.<br><br>📫 Let's connect: Linkedin https://www.linkedin.com/in/frances-grant/ 📧 frances_grant@outlook.com
+👩‍💻 I'm currently working towards my Postgraduate in Software Development at the University of Strathclyde<br><br>🤔 I’m looking to contribute to software development projects within the financial service industry - particularly interested within app development.<br><br>📫 Let's connect: Linkedin https://www.linkedin.com/in/frances-grant/ 📧 frances_grant@outlook.com
 
 
 ## 🌐 Socials:
