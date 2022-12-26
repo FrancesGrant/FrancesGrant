@@ -1,4 +1,4 @@
-### Hi, I'm Fran 👋 👩‍💻
+## Hi, I'm Fran 👋 👩‍💻
 
 <!--
 **FrancesGrant/FrancesGrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
